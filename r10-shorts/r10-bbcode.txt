@@ -1,0 +1,15 @@
+[CENTER]
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/01-hero.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/02-ozellikler.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/03-nasil-calisiyoruz.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/04-nisler.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/05-teslim-yayin.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/06-paketler.svg&output=png&w=1200[/IMG]
+
+[IMG]https://wsrv.nl/?url=raw.githubusercontent.com/mixprodeveloper/root/master/r10-shorts/07-iletisim.svg&output=png&w=1200[/IMG]
+[/CENTER]
